@@ -5,7 +5,7 @@
 - EncryptorLogic.java 类提供了 encrypt 和 decrypt 方法，分别用于对消息的加密、解密功能。
 - ResponseData.java 类定义了加密后返回的数据结构。
 - 使用方法可以参考Sample.java文件。
-- 加解密协议请参考《枫芒BOSS系统API调试手册》。
+- 加解密方案请参考《枫芒BOSS系统API调试手册》。
 
 **请特别注意**
 
